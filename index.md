@@ -1,5 +1,3 @@
-# Alexandre Gomes de Lima
-
 [Currículo lattes](http://lattes.cnpq.br/4063478137671603)
 
 [GitHub](https://github.com/alexlimatds)
