@@ -5,7 +5,7 @@
 Contato: alexandre.lima@ifrn.edu.br
 
 ### Disciplinas
-- [Web design (TADS)](web_design_tads.md)
+- [Web design (TADS)](./web_design_tads.html)
 - Algoritmos (TADS)
 - Fundamentos de programação (InfoWeb)
 - Teste de software (TADS)
